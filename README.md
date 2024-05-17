@@ -4,4 +4,4 @@ This template repository is served at <https://pomdtr-smallweb-template.smallweb
 
 ## Get you own instance
 
-Create a new repository from this template, then go to `https://<your-username>-<repository>.smallweb.run`.
+Create a new repository from this template, then go to `https://smallweb.run/github.com/<user>/<repo>`.
