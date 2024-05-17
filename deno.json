@@ -1,0 +1,5 @@
+{
+    "name": "@pomdtr/mod-example",
+    "exports": "./mod.ts",
+    "version": "1.0.0"
+}
